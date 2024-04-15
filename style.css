@@ -1,0 +1,34 @@
+head{
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 30px;
+}
+
+select {
+    font-size: 14px;
+    padding: 8px;
+}
+
+body {
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+button {
+    border: 1px solid #8a8888;
+}
+
+
+button:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
